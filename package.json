@@ -1,6 +1,6 @@
 {
   "name": "gym-maintenance-laudo-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gerador Automatizado de Laudos Técnicos Periciais para Manutenção de Academias - Lion Fitness Edition",
   "main": "src/main.tsx",
   "scripts": {
@@ -17,7 +17,7 @@
     "lion-fitness",
     "engenharia"
   ],
-  "author": "Hermes Agent + Antigravity Collaboration",
+  "author": "Luca Rodrigues Gomes de Sant'Anna <lucasantannaeng@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^18.3.3",
