@@ -36,7 +36,7 @@ ORCHESTRATION DIRECTIVE: HERMES + ANTIGRAVITY (AGY) — CONTINUOUS UPGRADE, INDU
 ## 🔐 Security & Conformidade
 - **Privacidade Total**: 100% client-side
 - **Integridade Forense**: SHA-256 canonical data hash + QR code placeholder (PDF generator)
-- **Normas Aplicadas**: NR-12, NR-10, NR-17, ABNT NBR ISO 20957-1/2, ISO 4309, NBR 16779, CONFEA 1.025/2009
+39: - **Normas Aplicadas**: NR-12 (Portaria MTE nº 344/2024), NR-10 (5ª revisão: Portaria MTE nº 737/2026, vigência 01/06/2027), NR-17, NR-01 (Cap. 1.5 Portaria MTE nº 1.419/2024), ABNT NBR ISO 20957-1/2, ISO 4309, NBR 16779, CONFEA 1.137/2023, CONFEA Res. 1.025/2009, Decisão Plenária CONFEA 0450/2025 (ART taxas 2026)
 - **Build Seguro**: Only static assets
 
 ## 🚀 NEXT STEPS (Future Enhancements)

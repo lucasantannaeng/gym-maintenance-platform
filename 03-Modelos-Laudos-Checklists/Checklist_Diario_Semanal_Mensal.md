@@ -1,5 +1,12 @@
 # Checklist Simplificado - Inspeção Diária / Semanal / Mensal
 
+**Normas de Referência Aplicadas:**
+- NR-01 (Cap. 1.5 - Portaria MTE nº 1.419/2024)
+- NR-10 (5ª revisão - Portaria MTE nº 737/2026, vigência 01/06/2027)
+- NR-12 (Portaria MTE nº 344/2024)
+- NR-17 (Ergonomia)
+- ABNT NBR ISO 20957-1 e 2
+
 ---
 
 ## CHECKLIST DIÁRIO (Inspeção Visual Rápida - 5 min/equipamento)
@@ -137,4 +144,4 @@
 
 ---
 
-*Este checklist deve ser adaptado conforme: tipos de equipamentos do local, criticidade, fluxo de usuários, ambiente (indoor/outdoor), recomendações do fabricante e análise de risco local (NR-12).*
+*Este checklist deve ser adaptado conforme: tipos de equipamentos do local, criticidade, fluxo de usuários, ambiente (indoor/outdoor), recomendações do fabricante e análise de risco local em conformidade com NR-01 (Cap. 1.5 - Portaria MTE nº 1.419/2024), NR-10 (5ª revisão - Portaria MTE nº 737/2026, vigência 01/06/2027), NR-12 (Portaria MTE nº 344/2024), NR-17 e ABNT NBR ISO 20957-1/2.*

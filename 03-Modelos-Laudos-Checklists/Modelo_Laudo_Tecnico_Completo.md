@@ -49,8 +49,10 @@
 - [ ] **Outro:** _______________________
 
 **Normas de Referência Aplicadas:**
-- [ ] NR-12 (Segurança em Máquinas e Equipamentos)
+- [ ] NR-01 (Cap. 1.5 - Portaria MTE nº 1.419/2024)
+- [ ] NR-10 (5ª revisão - Portaria MTE nº 737/2026, vigência 01/06/2027)
 - [ ] NR-10 (Segurança em Eletricidade - equipamentos cardio)
+- [ ] NR-12 (Segurança em Máquinas e Equipamentos)
 - [ ] NR-17 (Ergonomia)
 - [ ] ABNT NBR ISO 20957-1 e 2
 - [ ] ABNT NBR 16779 (se outdoor)
@@ -312,4 +314,4 @@ Cargo: ________________________ Data: __/__/____
 
 ---
 
-*Documento gerado em conformidade com NR-12, NR-10, NR-17, ABNT NBR ISO 20957-1/2 e boas práticas de engenharia de manutenção.*
+*Documento gerado em conformidade com NR-01 (Cap. 1.5 - Portaria MTE nº 1.419/2024), NR-10 (5ª revisão - Portaria MTE nº 737/2026, vigência 01/06/2027), NR-12 (Portaria MTE nº 344/2024), NR-17, ABNT NBR ISO 20957-1/2 e boas práticas de engenharia de manutenção.*

@@ -212,15 +212,18 @@ Engenheiro assume **responsabilidade técnica permanente** por:
 
 ---
 
-## 10. CUSTOS APROXIMADOS (Referência 2024 - Variam por CREA/UF)
+## 10. CUSTOS APROXIMADOS (Referência 2026 - Variam por CREA/UF)
 
-| Tipo ART | Taxa Aproximada (SP) | Observação |
-|----------|---------------------|------------|
-| ART Serviço/Laudo (valor até R$ 10k) | R$ 80-120 | Por ART |
-| ART Obra/Instalação | R$ 150-300 | Por ART |
-| ART Cargo/Função (anual) | R$ 200-400 | Renovável/ano |
-| ART Múltipla (até 10 locais) | R$ 200-500 | Econômica para redes |
-| Baixa de ART | Gratuita | Online |
+> **UPDATE REGULATÓRIO**: Valores atualizados pela **Decisão Plenária CONFEA nº 0450/2025** (INPC 5,20144% abril/2024-março/2025). Tabela A (obra/serviço): até R$ 15.000 → **R$ 112,48**; acima de R$ 15.000 → **R$ 296,35**. Tabela B (serviço rotina): de R$ 6.000,01 a R$ 7.500,00 → **R$ 35,79** (faixa 7). Valores aplicáveis a partir de 2026. Consultar tabela completa no site do CREA/RJ.
+
+|| Tipo ART | Taxa Aproximada (2026) | Observação |
+||----------|-----------------------|------------|
+|| ART Serviço/Laudo (até R$ 15k contrato) | R$ 112,48 | Tabela A, faixa 1 |
+|| ART Serviço/Laudo (acima R$ 15k) | R$ 296,35 | Tabela A, faixa 2 |
+|| ART Obra/Instalação | R$ 150-300 | Tabela A, faixa 2 |
+|| ART Cargo/Função (anual) | R$ 200-400 | Renovável/ano |
+|| ART Múltipla (até 10 locais) | R$ 200-500 | Econômica para redes |
+|| Baixa de ART | Gratuita | Online |
 
 > **Dica:** Inclua custo da ART no orçamento do laudo/serviço. Não "absorva" - é custo direto.
 

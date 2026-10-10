@@ -1,6 +1,6 @@
 // src/types/gymReport.ts
 // Tipos estritos para a plataforma GymPericial v6.0
-// Conformidade: NR-12, ISO 20957, ISO 4309, CONFEA 1.025, NBR 16779
+// Conformidade: NR-12 (Portaria MTE 344/2024), NR-10 (Portaria MTE 737/2026), ISO 20957, ISO 4309, CONFEA 1.137/2023, NBR 16779
 // Forense: HRN (Hazard Rating Number), cálculo de fadiga, etc.
 
 export type LionLine = 'KRATOS' | 'IRIDIUM' | 'OPTIMUS' | 'LFR';

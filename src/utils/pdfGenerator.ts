@@ -1,7 +1,7 @@
 // src/utils/pdfGenerator.ts
 // Forensic & Technical Gym Maintenance PDF Generator v6.0
 // Supports 4 Specialized Regulatory Templates (NR-12, Preventive, Forensic Accident, Handover)
-// Standards: ABNT NBR ISO 20957-1/2, NR-12 MTE 2022, ISO 4309:2017, CONFEA 1.025/09
+// Standards: ABNT NBR ISO 20957-1/2, NR-12 (Portaria MTE 344/2024), NR-10 (Portaria MTE 737/2026), ISO 4309:2017, CONFEA 1.137/2023
 
 import { jsPDF } from 'jspdf';
 import { saveAs } from 'file-saver';
@@ -13,7 +13,7 @@ const REPORT_TITLES: Record<ReportType, { title: string; subtitle: string; norm:
   NR12_CONFORMITY: {
     title: 'LAUDO TÉCNICO DE CONFORMIDADE NR-12 & ABNT NBR ISO 20957',
     subtitle: 'Auditoria de Segurança em Máquinas, Equipamentos de Musculação e Proteções Mecânicas',
-    norm: 'Portaria MTE nº 4.219/2022 (NR-12) · ABNT NBR ISO 20957-1:2019 · Resolução CONFEA 1.025/2009'
+    norm: 'Portaria MTE nº 344/2024 (NR-12) · ABNT NBR ISO 20957-1:2019 · Resolução CONFEA 1.137/2023'
   },
   PREVENTIVE_MAINTENANCE: {
     title: 'LAUDO TÉCNICO DE MANUTENÇÃO PREVENTIVA & PLANO PERIÓDICO (PMOC)',
@@ -267,7 +267,7 @@ export class GymLaudoPdfGenerator {
     let specificText = '';
     if (this.reportType === 'NR12_CONFORMITY') {
       specificText =
-        'A vistoria baseou-se nos preceitos da NR-12 (Portaria MTE 4.219/2022) e ABNT NBR ISO 20957-1/2, avaliando zonas de aprisionamento de membros em polias e torres de peso. Equipamentos com distância de segurança inferior a 25 mm desprovidos de proteção fixa foram apontados para imediata adequação ou interdição cautelar.';
+        'A vistoria baseou-se nos preceitos da NR-12 (Portaria MTE 344/2024) e ABNT NBR ISO 20957-1/2, avaliando zonas de aprisionamento de membros em polias e torres de peso. Equipamentos com distância de segurança inferior a 25 mm desprovidos de proteção fixa foram apontados para imediata adequação ou interdição cautelar.';
     } else if (this.reportType === 'PREVENTIVE_MAINTENANCE') {
       specificText =
         'A avaliação de desgaste seguiu a norma ISO 4309:2017. Cabos de aço com redução de diâmetro superior a 7% ou com mais de 3 arames rompidos por passo foram classificados para descarte compulsório. Foi homologado o uso exclusivo de silicone spray puro nas colunas inox e graxa sintética PTFE nas articulações.';

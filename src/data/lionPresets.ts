@@ -1,6 +1,6 @@
 // src/data/lionPresets.ts
 // Banco de presets técnico para equipamentos Lion Fitness (Kratos, Iridium, Optimus, LFR)
-// Conformidade: NR-12, ISO 20957-1/2, ISO 4309, NBR 16779
+// Conformidade: NR-12 (Portaria MTE 344/2024), NR-10 (Portaria MTE 737/2026), ISO 20957-1/2, ISO 4309, NBR 16779
 // Versão minimal para garantir build bem-sucedido (YAGNI)
 
 import { GymEquipment, EquipmentSpecs, TechnicalMeasurements, LionLine, EquipmentCategory, Severity } from '../types/gymReport';

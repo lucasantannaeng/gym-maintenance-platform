@@ -2,8 +2,11 @@
 
 ## Referência Oficial
 - **Fonte**: Ministério do Trabalho e Emprego (MTE)
-- **Documento**: NR-12 Atualizada 2022
-- **Link**: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-12-atualizada-2022-1.pdf
+- **Documento**: NR-12 - Última modificação: **Portaria MTE nº 344, de 21/03/2024**
+- **Versão vigente**: [NR-12 Atualizada 2025](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadoras-vigentes/nr-12-atualizada-2025-1.pdf)
+- **Link oficial**: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadoras-vigentes/norma-regulamentadora-no-12-nr-12
+
+> **ALERTA REGULATÓRIO**: A NR-12 foi revisada pela Portaria MTE nº 344/2024 (anteriormente Portaria SEPRT nº 916/2019). Existe também uma versão 2025 disponível no portal do MTE. Os templates deste projeto devem ser atualizados para refletir a redação vigente.
 
 ---
 

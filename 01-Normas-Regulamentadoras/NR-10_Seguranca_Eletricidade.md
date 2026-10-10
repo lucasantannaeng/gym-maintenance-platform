@@ -2,7 +2,12 @@
 
 ## Referência Oficial
 - **Fonte**: Ministério do Trabalho e Emprego (MTE)
+- **Documento**: NR-10 - Última revisão (5ª) consolidada pela **Portaria MTE nº 737, de 29 de maio de 2026**
+- **Vigência**: A partir de **01/06/2027**
 - **Aplicabilidade**: Equipamentos cardio (esteiras, elípticos, bikes) com componentes elétricos
+- **Link oficial**: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-10-nr-10
+
+> **ALERTA REGULATÓRIO**: A 5ª revisão da NR-10 (Portaria MTE nº 737/2026) entra em vigor em 01/06/2027. A nova redação harmoniza a norma com a estrutura normativa atual de SST e aperfeiçoa a gestão de riscos ocupacionais decorrentes da energia elétrica. O texto vigente até 31/05/2027 é: Portaria SEPRT nº 915/2019.
 
 ---
 

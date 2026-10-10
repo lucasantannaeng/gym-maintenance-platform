@@ -3,7 +3,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.2-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![NR-12 MTE](https://img.shields.io/badge/MTE-NR--12%202022-orange.svg)]()
+[![NR-12 MTE](https://img.shields.io/badge/MTE-NR--12%20Portaria%20344%2F2024-orange.svg)]()
 [![ABNT NBR ISO 20957](https://img.shields.io/badge/ABNT-ISO%2020957-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,7 +14,7 @@
 ## 🌟 Overview & Key Capabilities
 
 * 📋 **4 Dedicated Regulatory & Forensic Report Templates**:
-  1. **NR-12 Compliance & Safety Audit**: Mechanical trapping gap analysis, safety guarding, and labor regulatory conformity (MTE Portaria 4.219/2022).
+  1. **NR-12 Compliance & Safety Audit**: Mechanical trapping gap analysis, safety guarding, and labor regulatory conformity (MTE Portaria 344/2024, substituindo MTP nº 4.219/2022).
   2. **PMOC & Preventive Maintenance Schedule**: Steel wire rope wear tracking (ISO 4309), guide rod lubrication regimes, and MTBF/MTTR metrics.
   3. **Forensic Accident & Failure Investigation**: Causal link determination (nexo causal), fatigue fracture surface analysis, and civil liability determination (Civil Code Art. 618, CDC Arts. 12/14).
   4. **Commissioning & Technical Handover**: Alignment tolerances, torque validation, and manufacturer warranty acceptance.
@@ -34,6 +34,28 @@
   - Photographic evidence cards with severity borders.
   - CONFEA / CREA ART technical responsibility block with ICP-Brasil digital signature line.
   - Dynamic QR Code with canonical SHA-256 hash string for public authenticity verification.
+
+---
+
+## 🏗️ Architecture & Directory Layout
+
+```
+Laudo-Manutencao-Academia/
+├── src/
+│   ├── components/                   # Audit cards, inspection walkthrough & report modal
+│   ├── data/
+│   │   └── lionPresets.ts            # Parametric presets for Lion Fitness equipment
+│   ├── types/
+│   │   └── gymReport.ts              # Type-safe audit, non-conformity & asset schemas
+│   └── utils/
+│       └── pdfGenerator.ts           # A4 vector PDF engine with QR-code SHA-256 seal
+├── 01-Normas-Regulamentadoras/       # Technical reference norms (NR-10, NR-12, ISO 20957)
+├── 03-Modelos-Laudos-Checklists/     # Complete audit checklists & forensic templates
+├── 07-ART-Responsabilidade-Tecnica/  # CREA / CONFEA technical ART guidebook
+├── .gitignore                        # DevSecOps zero-leak protection
+├── LICENSE                           # Open source MIT license
+└── README.md                         # Technical engineering documentation
+```
 
 ---
 
@@ -57,7 +79,7 @@ npx tsc --noEmit
 
 ## 📑 Regulatory Framework & Engineering Standards
 
-- **NR-12 MTE (Portaria 4.219/2022)**: Safety in Machinery & Equipment.
+- **NR-12 MTE (Portaria 344/2024, substituindo MTP nº 4.219/2022)**: Safety in Machinery & Equipment.
 - **ABNT NBR ISO 20957 (Parts 1 to 9)**: Stationary training equipment safety & testing.
 - **ISO 4309:2017**: Cranes and wire ropes — Care, maintenance, inspection, and discard criteria.
 - **ABNT NBR 16779:2019**: Outdoor fitness equipment safety requirements.

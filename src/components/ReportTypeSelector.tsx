@@ -6,7 +6,7 @@ const REPORT_TYPE_OPTIONS: Array<{ value: ReportType; label: string; description
   {
     value: 'NR12_CONFORMITY',
     label: 'Laudo de Conformidade NR-12',
-    description: 'Laudo pericial anual de conformidade com NR-12 e ABNT NBR ISO 20957 (fiscalização/trabalhista)'
+    description: 'Laudo pericial anual de conformidade com NR-12 (Portaria MTE 344/2024) e ABNT NBR ISO 20957 (fiscalização/trabalhista)'
   },
   {
     value: 'PREVENTIVE_MAINTENANCE',
